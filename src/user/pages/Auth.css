@@ -1,0 +1,36 @@
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  padding: 1rem;
+  width: 90%;
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+
+.password-container {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.password-toggle {
+  display: flex;
+  cursor: pointer;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icon-container {
+  position: absolute;
+  margin-right: 1.8rem;
+  margin-top: 1.5rem;
+}
